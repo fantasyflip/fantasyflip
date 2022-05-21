@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fantasyflip&label=Profile%20views&color=0e75b6&style=flat" alt="fantasyflip" /> </p>
 
 
-- 🔭 I’m currently working on [J4RG Portfolio](https://j4rg.m8motion.com/)
+- 🔭 Currently working on [J4RG Portfolio](https://j4rg.m8motion.com/)
 
-- 🌱 I’m currently learning **Nuxt 3**
+- 🌱 Trying to learn **Nuxt 3**
 
-- 💞 I’m proud creator of [Fuel-Tracker](https://fuel-tracker.com/)
+- 💞 Proud creator of [Fuel-Tracker](https://fuel-tracker.com/)
 
 - 👨‍💻 All of my projects are available at [https://fantasyflip.de/](https://fantasyflip.de/)
 
