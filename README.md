@@ -3,7 +3,7 @@
 🔭 I’m currently working on [Listify](https://listify.live/)<br>
 🌱 I’m still improving on Nuxt 3<br>
 💬 Ask me about Vue, Nuxt, CF Workers<br>
-💞 Proud creator of [Fuel-Tracker](https://fuel-tracker.com/)<br>
+💞 Proud creator of [NuxtWind](https://nuxtwind.com/)<br>
 ⚡ Co-Founder of [M8Motion](https://m8motion.com/)<br>
 
 ---
